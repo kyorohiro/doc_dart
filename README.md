@@ -1,2 +1,2 @@
-![](cover.png)
+![](cover.jpg)
 
